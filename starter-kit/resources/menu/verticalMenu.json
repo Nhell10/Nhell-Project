@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "dashboard-dashboards-analytics"
+    },
+    {
+      "url": "dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "slug": "dashboard-dashboards-crm"
+    },
+    {
+      "url": "Documentation",
+      "name": "Documentation",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "slug": "documentation-docu-documentation"
+    },
+    {
+      "url": "Compliance",
+      "name": "Compliance",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "slug": "Compliance-Compliance-list"
+    },
+    {
+      "url": "Logistics",
+      "name": "LogisticsData",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "slug": "Logistics-Logistics-data"
+    }
+  ]
+}
